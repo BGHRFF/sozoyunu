@@ -1,5 +1,5 @@
-# On9 Word Chain Bot
-![On9 Word Chain Bot logo](https://i.imgur.com/B4hjMC5.jpg)
+# Word Chain Bot
+
 
 (Epic icon by [@AdriTheDreamer](https://github.com/AdriTheDreamer)) 
 

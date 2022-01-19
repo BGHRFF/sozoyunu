@@ -1,17 +1,17 @@
 {
-    "name": "Payment-Bot",
-    "description": "A telegram Payment bot",
+    "name": "wordchainbot",
+    "description": "A telegram wordchain bot",
     "stack": "container",
     "keywords": [
       "a",
       "telegram",
       "best",
-      "payment",
-      "pyrogram",
+      "python",
+      "wordchain",
       "bot"
     ],
     "website": "https://github.com/Akbotmakersnew",
-    "repository": "https://github.com/Akbotmakersnew/Payment-Bot",
+    "repository": "https://github.com/Akbotmakersnew/wordchainbot",
     "env": {
          "TOKEN": {
          "description": "A Telegram bot token from @botfather.",

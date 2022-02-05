@@ -10,8 +10,8 @@
       "wordchain",
       "bot"
     ],
-    "website": "https://github.com/Akbotmakersnew",
-    "repository": "https://github.com/Akbotmakersnew/wordchainbot",
+    "website": "https://github.com/BGHRFF",
+    "repository": "https://github.com/BGHRFF/sozoyunu",
     "env": {
          "TOKEN": {
          "description": "A Telegram bot token from @botfather.",

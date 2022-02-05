@@ -2,4 +2,4 @@ FROM python:3.9
 WORKDIR /app
 COPY . /app/
 RUN pip install -r requirements.txt
-CMD ["python", "-m", "on9wordchainbot"]
+CMD ["python3.9", "-m", "on9wordchainbot"]

@@ -1,7 +1,7 @@
 {
     "TOKEN": "5281482171:AAEXNgLKLtpXP9sXEYJGV1GO0P26gig6ySA",
     "ON9BOT_TOKEN": "5281482171:AAEXNgLKLtpXP9sXEYJGV1GO0P26gig6ySA",
-    "DB_URI": "mongodb+srv://bghrff:Baghirov2021@cluster0.v8crw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "DB_URI": "",
     "PROVIDER_TOKEN": "",
     "OWNER_ID": 2012283888,
     "ADMIN_GROUP_ID": -1001549747440,
